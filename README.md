@@ -1,2 +1,2 @@
 # parceria-who
- Esse Site é de Doctor Who
+ Esse é Um Site de Tudo de Doctor Who
