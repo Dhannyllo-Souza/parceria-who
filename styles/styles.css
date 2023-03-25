@@ -941,7 +941,7 @@ h6{
         }
 
         .header {
-          height: 60px;
+          height: 100px;
         }
 
         .logo {
@@ -964,7 +964,7 @@ h6{
           flex-direction: column;
           align-items: center;
           margin: 0;
-          background-color: #06021e;
+          background-color: #021e04;
           background-color: rgba(0, 0, 0, 0.8);
           position: fixed;
           top: 60px;
