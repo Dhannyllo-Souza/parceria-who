@@ -87,7 +87,7 @@
     .header {
       background-color: #133bbf;
       border-bottom: solid 1.5px #dcdcdc;
-      height: 55px;
+      height: 100px;
       position: fixed;
       width: 100%;
       min-width: 305px;
@@ -198,7 +198,7 @@
         }
 
         .header {
-          height: 60px;
+          height: 100px;
         }
 
         .logo {
